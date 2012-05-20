@@ -1,8 +1,10 @@
-﻿<h3>#ARCHIVOS BASE PARA LOS VIDEOTUTORIALES CREADOS POR iTutoriales EN EL CANAL http://youtube.com/user/ArtDesignerInc
-#V.0.0.1  "ACTUALIZACIONES VARIANTEMENTE INDEFINIDO".
-#TODOS LOS ARCHIVOS BASE SON CC "CREATIVE COMMONS" CON LO CUAL PUEDEN EDITARLO AL GUSTO DE CADA QUIEN.</h3>
+<h5>#ARCHIVOS BASE PARA LOS VIDEOTUTORIALES CREADOS POR iTutoriales EN EL CANAL DE <a href="http://youtube.com/user/ArtDesignerInc">YOUTUBE</a>
+<br>#V.0.0.1  "ACTUALIZACIONES VARIANTEMENTE INDEFINIDO".<br>
+#TODOS LOS ARCHIVOS BASE SON CC "CREATIVE COMMONS" CON LO CUAL PUEDEN EDITARLO AL GUSTO DE CADA QUIEN.</h5>
 
-+ <h4>iTutoriales</h4> es una comunidad de docentes especializados para la enseñanza de informacion libre y de manera gratuita
+<h4>iTutoriales</h4>
+
++ es una comunidad de docentes especializados para la enseñanza de informacion libre y de manera gratuita
   -Los contenidos hehchos en esta comunidad son para aportar a los visores y ampliar sus conocimientos sobre  las
   tecnologias de la informacion.
 
